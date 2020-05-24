@@ -8,4 +8,4 @@ Engaging in the age-old tradition of mathematicians trying to find patterns in w
 To start, see this [ipynb](analysis_fourier/analysis_fourier.ipynb).
 
 ## Disclaimer 
-These are just the random musings of an aerospace engineer (read: not a finance expert); please don't actually make trades on these analyses!
+These are just the random musings of an aerospace engineer (read: not a finance expert by any stretch of the term); please don't actually make trades on these analyses!
